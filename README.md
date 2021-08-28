@@ -2,8 +2,9 @@
 
 
 ## Index
- - Unsupervised Methodology for executing a hybrid of SORT and KCF trackers for Multitracking (Idea by - Amshra267)
+ - Unsupervised Methodology for executing a hybrid of SORT and KCF trackers for Multitracking (Idea by - Amshra267) - [Idea Doc](https://docs.google.com/document/d/1lo_nFekcI8eoOh4UFRN_DAiQVP_RyOfbHmfWBB_2vRs/edit?usp=sharing)
  - [Inverse Reinforcement Learning for Multi-Agent Setup](#inverse-reinforcement-learning-for-multi-agent-setup) (Idea by - hex-plex)
+ - Analysis of Existing Loss Functions and designing our own loss function for edge preservence autoencodings. (idea by - Amshra267) - [Idea Doc](https://docs.google.com/document/d/1SNUQHhvWbjKLHchQrdXDGrDYrnLbru1bt8OPpyKHBLE/edit?usp=sharing)
 
 ## Projects
 
