@@ -1,5 +1,5 @@
 # IG-projects-Ideas
-
+Please find below a list of project ideas we would be pursuing in the current academic session feel free to contact us to collaborate or join us in working towards them thank you.
 
 ## Index
  - ***Unsupervised Methodology for executing a hybrid of SORT and KCF trackers for Multitracking (Idea by - Amshra267) - [Idea Doc](https://docs.google.com/document/d/1lo_nFekcI8eoOh4UFRN_DAiQVP_RyOfbHmfWBB_2vRs/edit?usp=sharing)
@@ -11,6 +11,7 @@
  
 *** Will work on this idea later after proper formulation(If anyone want to work in idea formulation, then they can join as well)
 
+<hr/>
 
 ## Projects
 
