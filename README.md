@@ -7,7 +7,8 @@ Please find below a list of project ideas we would be pursuing in the current ac
  - Analysis of Existing Loss Functions and designing our own loss function for edge preservence autoencodings. (idea by - Amshra267) - [Idea Doc](https://docs.google.com/document/d/1SNUQHhvWbjKLHchQrdXDGrDYrnLbru1bt8OPpyKHBLE/edit?usp=sharing)
  - [Message passing with Graph Attention Neural Network for MultiAgent systems](#message-passing-with-graph-attention-neural-network-for-multiagent-systems). (idea by hex-plex)
  - Generating Images containing combined information from multiple Images by exploitation of a particular feature. (Idea by - lavish619) - [Idea Doc](https://docs.google.com/document/d/1fEpyInntouBOSOyHptKcjxN4uJRRYyGv_U3clHG-9EQ/edit?usp=sharing) 
- - One of the tasks from SemEval2022. Read this [doc](https://archraven.notion.site/SemEval-2022-528700776c28407e97eba547256edba9) for more details. (Contact- @arch-raven) 
+ - Multimedia Automatic Misogyny Identification [MAMI](https://archraven.notion.site/SemEval-2022-528700776c28407e97eba547256edba9) for SemEval2022. (Contact- @arch-raven)
+- One of the tasks from SemEval2022. Read this [doc](https://archraven.notion.site/SemEval-2022-528700776c28407e97eba547256edba9) for more details. (Contact- @arch-raven) 
  
 *** Will work on this idea later after proper formulation(If anyone want to work in idea formulation, then they can join as well)
 
